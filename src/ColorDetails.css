@@ -1,0 +1,16 @@
+.color-details-container {
+    text-align: center;
+  }
+  
+  .color-box {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+  }
+  
+  .color-name {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
